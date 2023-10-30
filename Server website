@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: black;
+            color: gray;
+            font-family: 'Arial', sans-serif;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        hr {
+            width: 50%;
+            border: 1px solid gray;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>Spectral Spectators</h1>
+        <hr>
+    </div>
+</body>
+</html>
